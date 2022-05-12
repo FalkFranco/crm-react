@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Franco",
+      "empresa": "Muebles",
+      "email": "francofalk@gmail.com",
+      "telefono": "03794396611",
+      "notas": "Muebles",
+      "id": 1
+    },
+    {
+      "nombre": "Matias",
+      "empresa": "Aserradero",
+      "email": "correo@correo.com",
+      "telefono": "3794872367",
+      "notas": "Venta de maderas en general",
+      "id": 2
+    },
+    {
+      "nombre": "Oscar",
+      "empresa": "Informatica el centro",
+      "email": "oscar@correo.com",
+      "telefono": "321434324",
+      "notas": "venta de insumos informaticos",
+      "id": 3
+    },
+    {
+      "nombre": "Naiara",
+      "empresa": "Dibujos Nai",
+      "email": "naiaramelinafalk@gmail.com",
+      "telefono": "23423423432",
+      "notas": "Venta de dibujos en linea",
+      "id": 4
+    }
+  ]
+}
