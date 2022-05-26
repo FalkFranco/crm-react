@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Franco",
+      "nombre": "Franco Falk",
       "empresa": "Muebles",
       "email": "francofalk@gmail.com",
       "telefono": "03794396611",
@@ -17,7 +17,7 @@
       "id": 2
     },
     {
-      "nombre": "Oscar",
+      "nombre": "Oscar Andres",
       "empresa": "Informatica el centro",
       "email": "oscar@correo.com",
       "telefono": "321434324",
@@ -39,6 +39,14 @@
       "telefono": "1423423423",
       "notas": "",
       "id": 5
+    },
+    {
+      "nombre": "Dora",
+      "empresa": "Dulces Dora",
+      "email": "coreo@correo.com",
+      "telefono": "42143242",
+      "notas": "Necesita frascos de vidrio",
+      "id": 6
     }
   ]
 }
