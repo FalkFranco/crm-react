@@ -13,12 +13,12 @@ const Layout = () => {
             <nav className='mt-10'>
                 <Link  
                     className={`${urlActual === '/clientes' ? 'text-blue-300' : 'text-white'}  text-2xl block mt-2 hover:text-blue-300`}
-                    to="/clientes">Cliente
+                    to="/">Cliente
                 </Link>
 
                 <Link 
                     className={`${urlActual === '/clientes/nuevo' ? 'text-blue-300' : 'text-white'}  text-2xl block mt-2 hover:text-blue-300`}
-                    to="/clientes/nuevo">Nuevo Cliente
+                    to="/nuevo">Nuevo Cliente
                 </Link>
             </nav>
         </div>
